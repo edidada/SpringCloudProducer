@@ -5,7 +5,7 @@
 
 	<groupId>com.neo</groupId>
 	<artifactId>spring-cloud-producer</artifactId>
-	<version>0.0.6</version>
+	<version>0.0.7</version>
 	<packaging>jar</packaging>
 
 	<name>spring-cloud-producer</name>
@@ -15,7 +15,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>1.5.3.RELEASE</version>
-		<relativePath/> <!-- lookup parent from repository -->
+		<relativePath/>
 	</parent>
 
 	<properties>
