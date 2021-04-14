@@ -79,3 +79,9 @@ org.springframework.web.client.ResourceAccessException: I/O error on POST reques
 
 http://localhost:9411/api/v1/spans
 这个是什么鬼？
+
+
+纯洁的微笑
+
+http://www.ityouknow.com/springcloud/2017/05/12/eureka-provider-constomer.html
+搞定

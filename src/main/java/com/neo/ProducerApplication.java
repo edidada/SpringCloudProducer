@@ -6,7 +6,7 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 import org.springframework.cloud.netflix.feign.EnableFeignClients;
 
 @SpringBootApplication //this is Spring Boot project
-@EnableDiscoveryClient // register client
+//@EnableDiscoveryClient // register client
 @EnableFeignClients  //feign client
 public class ProducerApplication {
 
